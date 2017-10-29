@@ -1,3 +1,3 @@
 # niharika
 brisingr
-christopher paolini
+christopher Paolini
